@@ -1,0 +1,16 @@
+#Generated Classes
+#Thu May 13 16:31:06 CEST 2010
+src/main/scala/dk/yousee/model/Periode.scala=target/scala_2.7.7/classes/dk/yousee/model/Periode.class
+src/main/scala/dk/yousee/contexts/OpretAbonnement.scala=target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anon$2.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$addBp$1$1.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$4.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$findAlleLeveringsAftaler$1.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$findAlleLeveringsAftaler$1$$anonfun$1.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anon$1.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$findAlleLeveringsAftaler$1$$anonfun$2.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$5.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$6.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anonfun$findAlleLeveringsAftaler$1$$anonfun$3.class\:target/scala_2.7.7/classes/dk/yousee/contexts/OpretAbonnement$$anon$3.class
+src/main/scala/dk/yousee/contexts/SletAbonnement.scala=target/scala_2.7.7/classes/dk/yousee/contexts/SletAbonnement.class
+src/main/scala/dk/yousee/model/Abonnement.scala=target/scala_2.7.7/classes/dk/yousee/model/Abonnement$$anonfun$persist$1.class\:target/scala_2.7.7/classes/dk/yousee/model/Abonnement.class
+src/main/scala/dk/yousee/model/LeveringsAftale.scala=target/scala_2.7.7/classes/dk/yousee/model/LeveringsAftale.class
+src/main/scala/dk/yousee/events/ProvisioneringsEvent.scala=target/scala_2.7.7/classes/dk/yousee/events/ProvisioneringsEvent.class\:target/scala_2.7.7/classes/dk/yousee/events/ProvisioneringsEvent$.class
+src/main/scala/dk/yousee/repository/ProduktRepo.scala=target/scala_2.7.7/classes/dk/yousee/repository/ProduktRepo.class\:target/scala_2.7.7/classes/dk/yousee/repository/ProduktRepo$.class
+src/main/scala/dk/yousee/events/AdresseEvent.scala=target/scala_2.7.7/classes/dk/yousee/events/AdresseEvent.class
+src/main/scala/dk/yousee/contexts/ProduktAendring.scala=target/scala_2.7.7/classes/dk/yousee/contexts/ProduktAendring.class
+src/main/scala/dk/yousee/roles/Provisionering.scala=target/scala_2.7.7/classes/dk/yousee/roles/Provisionering.class\:target/scala_2.7.7/classes/dk/yousee/roles/Provisionering$class.class
+src/main/scala/dk/yousee/events/PrisEvent.scala=target/scala_2.7.7/classes/dk/yousee/events/PrisEvent.class
+src/main/scala/dk/yousee/roles/BestilFraLager.scala=target/scala_2.7.7/classes/dk/yousee/roles/BestilFraLager.class\:target/scala_2.7.7/classes/dk/yousee/roles/BestilFraLager$class.class
+src/main/scala/dk/yousee/repository/Properties.scala=target/scala_2.7.7/classes/dk/yousee/repository/Properties$.class\:target/scala_2.7.7/classes/dk/yousee/repository/Properties.class
+src/main/scala/dk/yousee/repository/Produkt.scala=target/scala_2.7.7/classes/dk/yousee/repository/Produkt.class
