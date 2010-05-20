@@ -1,10 +1,10 @@
 package dk.yousee.contexts
 
 import java.util.Date
-import dk.yousee.abonnement.{Abonnement, Periode, LeveringsAftale}
 import dk.yousee.roles.{BestilFraLager, Provisionering}
 import dk.yousee.repository.{Properties, Produkt, ProduktRepo}
 import collection.mutable.Map
+import dk.yousee.model.{LeveringsAftale, Periode, Abonnement}
 
 /**
  * Created by IntelliJ IDEA.
