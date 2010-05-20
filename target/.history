@@ -8,3 +8,5 @@ compile
 clean 
 package
 compile
+clean 
+exit
