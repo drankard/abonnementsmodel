@@ -3,7 +3,7 @@
 **/src_managed
 project/boot
 out
-*.iml
-*.ipr
-*.iws
+**/*.iml
+**/*.ipr
+**/*.iws
 
