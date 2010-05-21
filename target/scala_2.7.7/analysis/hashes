@@ -1,0 +1,17 @@
+#Source Hashes
+#Fri May 21 10:32:26 CEST 2010
+src/main/scala/dk/yousee/contexts/OpretAbonnement.scala=545e66d41174bf5f0c7db12da2071a9b7066e359
+src/main/scala/dk/yousee/model/Periode.scala=9ae971203dd167db0c04bd69cecbe445b70e03e7
+src/main/scala/dk/yousee/contexts/SletAbonnement.scala=6a0bf8448a34e5e45b515049da4b3c558fe2d0b1
+src/main/scala/dk/yousee/model/Abonnement.scala=bb195ca9f167ee11dcea723d2b882f8261282c6a
+src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala=c51cb3c5f26c5f87c5ecf1905160f5e862e5b532
+src/main/scala/dk/yousee/model/LeveringsAftale.scala=8bf4cc26e10be70b6b2b3fdbd30355e994190e88
+src/main/scala/dk/yousee/events/ProvisioneringsEvent.scala=c5bfd9c3907b3e74f8185ab722e40c1f06636382
+src/main/scala/dk/yousee/repository/ProduktRepo.scala=e60f1ad72cf2db9256bb874affa3179c3d0c1d4c
+src/main/scala/dk/yousee/events/AdresseEvent.scala=df218dae0916940189ba9445bad5dd6e841a707e
+src/main/scala/dk/yousee/contexts/ProduktAendring.scala=d9915ba0c8e46d614dc3ce68672b69607c8ca756
+src/main/scala/dk/yousee/roles/Provisionering.scala=36671a4757756a3ba797a42919bf93d1a6af452f
+src/main/scala/dk/yousee/events/PrisEvent.scala=7fe3677841a16ca63618e131a34582f0900b681b
+src/main/scala/dk/yousee/roles/BestilFraLager.scala=a866f83dfee63bc44480555fb8b264a6e5c6a579
+src/main/scala/dk/yousee/repository/Properties.scala=24c4b6764eb4b218f552655b3939769c8e6622b5
+src/main/scala/dk/yousee/repository/Produkt.scala=9cfba94640a658a0dd8a86670e89856c4b59a8fc

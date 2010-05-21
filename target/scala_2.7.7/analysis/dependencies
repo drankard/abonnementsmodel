@@ -1,0 +1,17 @@
+#Source Dependencies
+#Fri May 21 10:32:26 CEST 2010
+src/main/scala/dk/yousee/contexts/OpretAbonnement.scala=
+src/main/scala/dk/yousee/model/Periode.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/model/LeveringsAftale.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala\:src/main/scala/dk/yousee/model/Abonnement.scala
+src/main/scala/dk/yousee/contexts/SletAbonnement.scala=
+src/main/scala/dk/yousee/model/Abonnement.scala=src/main/scala/dk/yousee/contexts/OpretAbonnement.scala
+src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala=
+src/main/scala/dk/yousee/model/LeveringsAftale.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala\:src/main/scala/dk/yousee/model/Abonnement.scala
+src/main/scala/dk/yousee/events/ProvisioneringsEvent.scala=src/main/scala/dk/yousee/roles/Provisionering.scala
+src/main/scala/dk/yousee/repository/ProduktRepo.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala
+src/main/scala/dk/yousee/events/AdresseEvent.scala=
+src/main/scala/dk/yousee/contexts/ProduktAendring.scala=
+src/main/scala/dk/yousee/roles/Provisionering.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala
+src/main/scala/dk/yousee/events/PrisEvent.scala=
+src/main/scala/dk/yousee/roles/BestilFraLager.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala
+src/main/scala/dk/yousee/repository/Properties.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala\:src/main/scala/dk/yousee/repository/Produkt.scala\:src/main/scala/dk/yousee/repository/ProduktRepo.scala
+src/main/scala/dk/yousee/repository/Produkt.scala=src/main/scala/dk/yousee/utilities/LeveringsAftaleUtility.scala\:src/main/scala/dk/yousee/contexts/OpretAbonnement.scala\:src/main/scala/dk/yousee/repository/ProduktRepo.scala
